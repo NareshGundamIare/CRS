@@ -1,2 +1,0 @@
-python CurrencyRecognition.py
-pause
